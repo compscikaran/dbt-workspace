@@ -1,5 +1,3 @@
-{{ config(materialized='view')}}
-
 SELECT
     movie_id,
     title as movie_name,
