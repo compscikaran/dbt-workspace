@@ -1,4 +1,4 @@
-Netflix User Analytics using dbt Cloud
+Shopping Analytics using dbt Cloud
 
 Following the dbt Fundamentals course here - https://learn.getdbt.com/learn/course/dbt-fundamentals
 
